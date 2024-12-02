@@ -2,9 +2,9 @@
 
 namespace Iammarjamal\Startkit;
 
+use Iammarjamal\Startkit\Commands\StartkitCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Iammarjamal\Startkit\Commands\StartkitCommand;
 
 class StartkitServiceProvider extends PackageServiceProvider
 {

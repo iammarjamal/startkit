@@ -2,9 +2,9 @@
 
 namespace Iammarjamal\Startkit\Tests;
 
+use Iammarjamal\Startkit\StartkitServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Iammarjamal\Startkit\StartkitServiceProvider;
 
 class TestCase extends Orchestra
 {
